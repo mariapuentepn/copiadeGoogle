@@ -1,4 +1,4 @@
-# Clon de la interfaz de Google con HTML5 y CSS3
+# Copia de la interfaz de Google con HTML5 y CSS3
 
 ## ÍNDICE
 1. Intro
@@ -27,4 +27,4 @@ Las tecnologías que utilicé, son:
 Aprender a utilizar las etiquetas estándar de HTML5 y CSS3.
 
 ### 4. Link a demo
-En el siguiente link puedes ver mi proyecto terminado: [Clon de Google](https://copiade-google-phi.vercel.app/)
+En el siguiente link puedes ver mi proyecto terminado: [Copia de Google](https://copiade-google-phi.vercel.app/)
